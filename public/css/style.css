@@ -1,0 +1,41 @@
+ul{
+    list-style: none;
+}
+
+section.sobre{
+    background-color: #2d3748;
+    color: #fff;
+}
+
+section.sobre h1{
+    color: cornflowerblue;
+}
+
+section.contato{
+    background-color: #e2e8f0;
+}
+
+section.contato .group-contato{
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+section.contato .group-contato form{
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+section.contato .group-contato div.col-md{
+    background-color: #2d3748;
+    color: #fff;
+    border-radius: 10px;
+}
+
+section.contato .group-contato i{
+    color: #a0aec0;
+}
+
+input.error,
+textarea.error{
+    border-color: red;
+}
